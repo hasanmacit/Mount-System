@@ -1,0 +1,5 @@
+"donusmuskenbinegebinemezsin.";
+"Dönüşmüş halde iken bineğe binemezsin.";
+
+"YOU_CANNOT_USE_THIS_WHILE_RIDING";
+"Bu eşyayı binek üzerinde kullanamazsın.";
